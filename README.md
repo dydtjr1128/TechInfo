@@ -8,7 +8,7 @@
   </ul>  
 </p>
 
-'''
+```
     $ sysctl fs.file-max
     fs.file-max = 775052
-'''
+```
