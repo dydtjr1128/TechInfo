@@ -1,4 +1,4 @@
-# TechInfo
+# Useful linux commands
 유용한 팁
 
 
