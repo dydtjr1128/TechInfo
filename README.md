@@ -37,5 +37,5 @@
 </ul> 
 
 ```
-  ulimit -SHn 65535
+  $ ulimit -SHn 65535
 ```
